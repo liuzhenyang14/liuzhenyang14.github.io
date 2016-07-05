@@ -1,0 +1,14 @@
+#button{
+	padding: 20px;
+	text-align: center;
+	position: fixed;
+	cursor: pointer;
+}
+
+#pic{
+	width: 150px;
+	height: 130px;
+	text-align: center;
+	position: fixed;
+	background: url('../images/34.gif');
+}

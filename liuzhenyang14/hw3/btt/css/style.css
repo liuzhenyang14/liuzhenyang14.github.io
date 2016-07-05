@@ -1,0 +1,12 @@
+#backtotop {
+	width:100px; 
+	height:100px; 
+	background:url('../images/backtotop.png');
+	background-size:cover; 
+	position:fixed; 
+	z-index:1000; 
+	display:none;
+}
+h1{
+	text-align:center;
+}
