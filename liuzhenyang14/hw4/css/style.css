@@ -1,0 +1,97 @@
+body{
+	background: #66ccff;
+}
+
+#notice{
+	font-size: 60px;
+	font-family: 微软雅黑; 
+	margin-top: 10px;
+}
+
+#infos{
+	margin-top: 50px;
+	width: 220px;
+	height: 129px;
+	background-image: url("../images/QR.png");
+	background-size: 130px, 129px;
+	background-repeat: no-repeat;
+	font-size: 32px;
+	font-family: 楷体;
+	padding-left: 140px;
+}
+
+#admin1{
+	position: absolute;
+	height: 120px;
+	margin-top: 20x;
+	width: 100%;
+	background:yellow;
+	display: none;
+}
+
+#admin1 .pic{
+	height:80px; 
+	width: 80px;
+	border: 1px solid #fff;
+	background-size: cover;
+	background-image: url("../images/secourse.jpg");
+}
+
+#admin1 .nickname{
+	margin-top: 5px;
+	width: 80px;
+	height: 30px;
+	text-align: center;
+	font-family: 华文新魏;
+	overflow: hidden;
+	font-size: 12px;
+	background-color: yellow;
+	line-height: 30px;
+}
+
+#admin1 .content{
+	margin-left: 100px;
+	margin-top: -100px;
+	height: 80px;
+	overflow: hidden;
+	font-size: 32px;
+	font-family: 方正舒体;
+}
+
+
+#top, #nav, #foot{
+	margin-top: 20px;
+	height: 120px;
+	width: 100%;
+    background: gray;
+}
+
+#pic{
+	height:80px; 
+	width: 80px;
+	border: 1px solid #fff;
+	background-size: cover;
+	background-color: white;
+}
+
+#nickname{
+	margin-top: 5px;
+	width: 80px;
+	height: 30px;
+	text-align: center;
+	font-family: 华文新魏;
+	overflow: hidden;
+	font-size: 12px;
+	background-color: yellow;
+	line-height: 30px;
+}
+
+#content{
+	margin-left: 100px;
+	margin-top: -100px;
+	height: 80px;
+	overflow: hidden;
+	font-size: 32px;
+	font-family: 方正舒体;
+}
+
